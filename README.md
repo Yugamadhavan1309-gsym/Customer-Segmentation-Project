@@ -14,13 +14,13 @@ This project applies K-Means Clustering to segment customers based on their beha
 - Generate business insights
 
 ## Tools & Technologies
-- Python
+- Google Colab
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Google Colab
+- Python
 
 ## Workflow
 1. Import Libraries
